@@ -56,12 +56,6 @@ html {
     justify-content: center;
 }
 
-.batiment {
-    display: flex;
-    justify-content: center;
-}
-
-
 .progress {
     background-color: #a3c2c2;
 }
